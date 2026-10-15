@@ -1,0 +1,14 @@
+p{
+    color: #ff0095;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#PageTitle{
+    color: #c8e316;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.customClass{
+    font-size: 40px;
+    font-weight:bold;
+}

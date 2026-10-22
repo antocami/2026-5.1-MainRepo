@@ -1,0 +1,16 @@
+table {
+
+    border: 1px solid #000;
+
+}
+td,th{
+    
+    border: 1px solid #000;
+    border-style: solid;
+}
+th{
+    background-color: #0d17d7;
+    padding: 8px;
+    text-align: center;
+    color: #fff;
+}
